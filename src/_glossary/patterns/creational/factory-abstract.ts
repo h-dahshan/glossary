@@ -1,7 +1,7 @@
 /**
  * ABSTRACT FACTORY:
- * - defines a method, being used for creating "families of objects" instead of using a direct constructor call
- * - actory method in concrete factory classes, decides and calls a concrete classes for creation
+ * - defines methods, being used for creating "families of objects" instead of using a direct constructor call
+ * - factory methods in concrete factory classes, decides and calls a concrete classes for creation
  * - why: relalted object in same compatability, avoid direct access to concrete classes, support plugin arch.
  * - examples: DB access layer abstractions, grouped UI components, plugins
  */
