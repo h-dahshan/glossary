@@ -1,5 +1,5 @@
 /**
- * - why: ensuring there's only on instance of a class
+ * - why: ensuring there's only one instance of a class
  * - examples: loggers, configs, DB interface, ...
  */
 
